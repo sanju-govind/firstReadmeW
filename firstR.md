@@ -17,3 +17,15 @@
 <br/>
 <br/>
 
+
+## Technologies :fire:
+- Data Science.
+- Python.
+- Competitive Programming.
+- Machine Learning
+- Deep Learning
+
+**Languages and Tools:**  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju-govind&theme=radical&hide=glsl,python" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanju-govind&&show_icons=true&theme=radical&line_height=27&v=5" alt="sanju-govind's GitHub Stats" />
