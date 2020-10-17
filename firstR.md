@@ -45,3 +45,11 @@ I studied Python
 
 Programmer who makes some kludges.
 Trying to study the coding now
+
+### About
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Computers :books:
+-  **Ask me about :** Python and linux :v:
+-  **Fun fact :** I dont linke coffee:sweat_smile: and tea 
+-  **Pronouns :** He/Him/His :innocent:
+
