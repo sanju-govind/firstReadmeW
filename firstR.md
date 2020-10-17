@@ -29,3 +29,19 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju-govind&theme=radical&hide=glsl,python" />
 <img src="https://github-readme-stats.vercel.app/api?username=sanju-govind&&show_icons=true&theme=radical&line_height=27&v=5" alt="sanju-govind's GitHub Stats" />
+
+
+## About Me:
+
+<p>
+  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
+</p>
+Programing ❤️| Computer Science 💙| Games 💚
+
+I'm from Kerala
+
+I studied Python 
+
+
+Programmer who makes some kludges.
+Trying to study the coding now
